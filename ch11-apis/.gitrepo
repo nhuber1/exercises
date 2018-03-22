@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/info201/ch11-apis
+	branch = master
+	commit = bfd0cd7c7ff052123b83eda9b1136915dda26e33
+	parent = 0e2ebc4c99dcba923f2d38ae14065a037585f317
+	cmdver = 0.3.1
