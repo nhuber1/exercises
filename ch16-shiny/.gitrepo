@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/info201/ch16-shiny
+	branch = master
+	commit = 3005de9fd1a1f37095cf1131f72ceeed732870a7
+	parent = 11966ea035b841126c06f29793835fa4c07fd2a6
+	cmdver = 0.3.1
