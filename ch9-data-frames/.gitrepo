@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/info201/ch9-data-frames
+	branch = master
+	commit = cc3a505117d9b157eba80565b410fff63968a15a
+	parent = c0c82f5921d18acb3ddbd3d1e53faaf1d9bef537
+	cmdver = 0.3.1
