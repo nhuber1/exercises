@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/info201/ch13-ggplot2
+	branch = master
+	commit = 4fe9cfc8558865cad839669c0d9915ee4410397b
+	parent = 548eedbb2bda6cf6ebfcad0342c922fda4864ce1
+	cmdver = 0.3.1
